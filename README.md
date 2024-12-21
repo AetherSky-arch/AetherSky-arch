@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```
-Github's default profile README sure is neat, huh?
+I wanna get so good at this when i act arrogant asf people jst let me
 ```

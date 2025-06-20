@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aether !
 - 👀 I’m interested in reverse engineering!
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently about web scraping!
 - 📫 How to reach me : by mail at theaethersky@gmail.com
 
 <!---

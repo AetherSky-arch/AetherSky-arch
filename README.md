@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 ```
 Using LLM's as a student impedes becoming a master. Using LLM's as a master is useless.
 ```
+
+More of my stuff, updated more often, at my [sourcehut page](https://git.sr.ht/~ae7th)

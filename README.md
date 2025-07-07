@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aether !
 - 👀 I’m interested in reverse engineering!
-- 🌱 I’m currently about web scraping!
+- 🌱 I’m currently learning about password generation algorithms!
 - 📫 How to reach me : by mail at theaethersky@gmail.com
 
 <!---
@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```
-I wanna get so good at this when i act arrogant asf people jst let me
+Using LLM's as a student impedes becoming a master. Using LLM's as a master is useless.
 ```

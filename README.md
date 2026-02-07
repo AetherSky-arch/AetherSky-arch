@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aether !
 - 👀 I’m interested in reverse engineering!
-- 🌱 I’m currently learning about password generation algorithms!
+- 🌱 I’m currently learning about Windows Defender!
 - 📫 How to reach me : by mail at theaethersky@gmail.com
 
 Read about [why I don't use Github anymore](https://github.com/AetherSky-arch/why)
